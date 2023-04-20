@@ -1,0 +1,6 @@
+{
+  "/api/*": "/$1",
+  "/AssinaturaDeComboDeCurso/:resource/:id/FormasDePagamento": "/:resource/:id/$1",
+  "/AssinaturaDeComboDeCurso/:resource/*": "/:resource",
+  "/AssinaturaDeComboDeCurso/ValidarInadiplencia/:documentoResponsavel": "/:documentoResponsavel"
+}
